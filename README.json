@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T04:42:14Z",
+            "last_commit": "2026-08-14T04:52:24Z",
             "owner": "apache",
             "repo": "superset",
-            "stars": 74246
+            "stars": 74258
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-13T04:35:10Z",
+            "last_commit": "2026-08-14T05:03:01Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48726
+            "stars": 48753
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:29:08Z",
+            "last_commit": "2026-08-14T02:19:29Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40657
+            "stars": 40670
           }
         },
         {
@@ -58,10 +58,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:37:06Z",
+            "last_commit": "2026-08-14T05:05:00Z",
             "owner": "elastic",
             "repo": "kibana",
-            "stars": 21235
+            "stars": 21238
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2023-01-12T09:57:56Z",
             "owner": "plouc",
             "repo": "mozaik",
-            "stars": 3598
+            "stars": 3597
           }
         },
         {
@@ -178,13 +178,27 @@
         },
         {
           "node_type": "item",
+          "title": "Xenon",
+          "description": "Local all-in-one PC dashboard that runs in any browser or on the CORSAIR Xeneon Edge touchscreen: system monitor, media, mic, voice AI, a Stream-Deck grid, and RGB lighting. 100% local, no account.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T21:18:03Z",
+            "owner": "marcimastro98",
+            "repo": "Xenon",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
           "title": "StyleBI",
           "description": "App for dashboards and analytics with data pipeline for transformation and mashup.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T04:32:59Z",
+            "last_commit": "2026-08-14T04:26:21Z",
             "owner": "inetsoft-technology",
             "repo": "stylebi",
             "stars": 54
@@ -201,21 +215,7 @@
             "last_commit": "2026-03-04T23:57:04Z",
             "owner": "shmlkv",
             "repo": "dna-claude-analysis",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Xenon",
-          "description": "Local all-in-one PC dashboard that runs in any browser or on the CORSAIR Xeneon Edge touchscreen: system monitor, media, mic, voice AI, a Stream-Deck grid, and RGB lighting. 100% local, no account.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-12T06:46:29Z",
-            "owner": "marcimastro98",
-            "repo": "Xenon",
-            "stars": 49
+            "stars": 54
           }
         },
         {
@@ -229,7 +229,7 @@
             "last_commit": "2026-08-13T04:33:48Z",
             "owner": "zmsp",
             "repo": "AppRankly",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-07-21T10:19:12Z",
             "owner": "abhishekhsingh",
             "repo": "goatcounter-dashboard",
-            "stars": 13
+            "stars": 14
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2017-06-01T07:02:55Z",
             "owner": "kenhub",
             "repo": "giraffe",
-            "stars": 771
+            "stars": 770
           }
         },
         {
@@ -423,7 +423,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T18:54:21Z",
+            "last_commit": "2026-08-14T01:23:00Z",
             "owner": "Countly",
             "repo": "countly-server",
             "stars": 5886
@@ -451,7 +451,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:41:45Z",
+            "last_commit": "2026-08-14T03:43:47Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -476,7 +476,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:43:52.393Z",
+    "last_updated": "2026-08-14T05:08:12.048Z",
     "original_repository": "obazoud/awesome-dashboard",
     "original_repository_sha": "5f9b861b0f31b7aab9ccee111300acab69211228",
     "enhanced_repository": "enhansome/enhansome-dashboard",
