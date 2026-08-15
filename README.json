@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T04:52:24Z",
+            "last_commit": "2026-08-15T03:17:30Z",
             "owner": "apache",
             "repo": "superset",
-            "stars": 74258
+            "stars": 74260
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-14T05:03:01Z",
+            "last_commit": "2026-08-15T03:55:01Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48753
+            "stars": 48763
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T02:19:29Z",
+            "last_commit": "2026-08-14T20:39:56Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40670
+            "stars": 40673
           }
         },
         {
@@ -58,10 +58,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T05:05:00Z",
+            "last_commit": "2026-08-14T23:47:50Z",
             "owner": "elastic",
             "repo": "kibana",
-            "stars": 21238
+            "stars": 21241
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2023-09-23T21:14:02Z",
             "owner": "Freeboard",
             "repo": "freeboard",
-            "stars": 6504
+            "stars": 6503
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2026-08-13T21:18:03Z",
             "owner": "marcimastro98",
             "repo": "Xenon",
-            "stars": 60
+            "stars": 62
           }
         },
         {
@@ -198,7 +198,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T04:26:21Z",
+            "last_commit": "2026-08-15T02:29:49Z",
             "owner": "inetsoft-technology",
             "repo": "stylebi",
             "stars": 54
@@ -229,7 +229,7 @@
             "last_commit": "2026-08-13T04:33:48Z",
             "owner": "zmsp",
             "repo": "AppRankly",
-            "stars": 20
+            "stars": 19
           }
         },
         {
@@ -257,7 +257,7 @@
             "last_commit": "2026-05-14T14:08:28Z",
             "owner": "flik2002",
             "repo": "openclaw-monitor",
-            "stars": 11
+            "stars": 12
           }
         }
       ],
@@ -412,7 +412,7 @@
             "last_commit": "2024-09-25T10:12:17Z",
             "owner": "akveo",
             "repo": "ngx-admin",
-            "stars": 25706
+            "stars": 25705
           }
         },
         {
@@ -423,7 +423,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T01:23:00Z",
+            "last_commit": "2026-08-14T18:56:15Z",
             "owner": "Countly",
             "repo": "countly-server",
             "stars": 5886
@@ -451,7 +451,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T03:43:47Z",
+            "last_commit": "2026-08-15T03:33:34Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -465,7 +465,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T03:07:22Z",
+            "last_commit": "2026-08-15T03:07:32Z",
             "owner": "capensis",
             "repo": "canopsis",
             "stars": 102
@@ -476,7 +476,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:08:12.048Z",
+    "last_updated": "2026-08-15T03:57:24.816Z",
     "original_repository": "obazoud/awesome-dashboard",
     "original_repository_sha": "5f9b861b0f31b7aab9ccee111300acab69211228",
     "enhanced_repository": "enhansome/enhansome-dashboard",

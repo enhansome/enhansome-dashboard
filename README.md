@@ -22,11 +22,11 @@ See [Contribution Guidelines](#contribution-guidelines)
 
 ## General
 
-* [Apache Superset](https://github.com/apache/incubator-superset) ⭐ 74,258 | 🐛 562 | 🌐 Python | 📅 2026-08-14 - a modern, enterprise-ready business intelligence web application (previously named Caravel and Panoramix).
-* [Metabase](https://github.com/metabase/metabase) ⭐ 48,753 | 🐛 4,310 | 🌐 Clojure | 📅 2026-08-14 - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
-* [AppSmith](https://github.com/appsmithorg/appsmith) ⭐ 40,670 | 🐛 4,473 | 🌐 TypeScript | 📅 2026-08-14) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-* [Kibana](https://github.com/elasticsearch/kibana) ⭐ 21,238 | 🐛 14,317 | 🌐 TypeScript | 📅 2026-08-14 - Kibana is a browser based analytics and search interface to Logstash and other timestamped data sets stored in [ElasticSearch](http://www.elasticsearch.org/).
-* [Freeboard](https://github.com/Freeboard/freeboard) ⭐ 6,504 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-23 - An open source real-time dashboard builder for IOT and other web mashups.
+* [Apache Superset](https://github.com/apache/incubator-superset) ⭐ 74,260 | 🐛 579 | 🌐 Python | 📅 2026-08-15 - a modern, enterprise-ready business intelligence web application (previously named Caravel and Panoramix).
+* [Metabase](https://github.com/metabase/metabase) ⭐ 48,763 | 🐛 4,319 | 🌐 Clojure | 📅 2026-08-15 - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
+* [AppSmith](https://github.com/appsmithorg/appsmith) ⭐ 40,673 | 🐛 4,477 | 🌐 TypeScript | 📅 2026-08-14) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+* [Kibana](https://github.com/elasticsearch/kibana) ⭐ 21,241 | 🐛 14,225 | 🌐 TypeScript | 📅 2026-08-14 - Kibana is a browser based analytics and search interface to Logstash and other timestamped data sets stored in [ElasticSearch](http://www.elasticsearch.org/).
+* [Freeboard](https://github.com/Freeboard/freeboard) ⭐ 6,503 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-23 - An open source real-time dashboard builder for IOT and other web mashups.
 * [Mozaik](http://github.com/plouc/mozaik) ⭐ 3,597 | 🐛 135 | 🌐 JavaScript | 📅 2023-01-12 - Mozaïk is a tool based on nodejs / react / d3 / stylus / d3 to craft beautiful dashboards, it ships with several widgets plus themes and can be easily extended.
 * [Smashing](https://github.com/Smashing/smashing) ⭐ 3,301 | 🐛 22 | 🌐 JavaScript | 📅 2023-03-10 - Spriritual successor to [Dashing](http://shopify.github.io/dashing/) - The exceptionally handsome dashboard framework.
 * [Turnilo](https://github.com/allegro/turnilo) ⚠️ Archived - Business intelligence, data exploration and visualization web application for Druid, formerly know as Swiv and Pivot.
@@ -34,12 +34,12 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [frolic](https://github.com/FrolicOrg/Frolic) ⭐ 203 | 🐛 0 | 🌐 Rust | 📅 2023-08-15 - Backend service to build customer facing dashboards 10x faster. Written in Rust.
 * [ez-Dashing](https://github.com/ylacaute/ez-Dashing) ⭐ 133 | 🐛 3 | 🌐 JavaScript | 📅 2024-01-22 - A free dashboard for agile development team, based on React/redux, ready to use with Docker.
 * [awe](https://github.com/dankilman/awe) ⭐ 119 | 🐛 19 | 🌐 Python | 📅 2026-02-24 - A framework for creating dynamic web based reports and dashboards.
-* [Xenon](https://github.com/marcimastro98/Xenon) ⭐ 60 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-13 - Local all-in-one PC dashboard that runs in any browser or on the CORSAIR Xeneon Edge touchscreen: system monitor, media, mic, voice AI, a Stream-Deck grid, and RGB lighting. 100% local, no account.
-* [StyleBI](https://github.com/inetsoft-technology/stylebi) ⭐ 54 | 🐛 15 | 🌐 Java | 📅 2026-08-14 - App for dashboards and analytics with data pipeline for transformation and mashup.
+* [Xenon](https://github.com/marcimastro98/Xenon) ⭐ 62 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-13 - Local all-in-one PC dashboard that runs in any browser or on the CORSAIR Xeneon Edge touchscreen: system monitor, media, mic, voice AI, a Stream-Deck grid, and RGB lighting. 100% local, no account.
+* [StyleBI](https://github.com/inetsoft-technology/stylebi) ⭐ 54 | 🐛 22 | 🌐 Java | 📅 2026-08-15 - App for dashboards and analytics with data pipeline for transformation and mashup.
 * [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2026-03-04 - A personal genome analysis toolkit that generates a single-page DNA Terminal dashboard with green-on-black terminal aesthetic.
-* [AppRankly](https://github.com/zmsp/AppRankly) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-13 - Self-hosted mobile app store analytics dashboard for iOS App Store Connect and Google Play Console.
+* [AppRankly](https://github.com/zmsp/AppRankly) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-13 - Self-hosted mobile app store analytics dashboard for iOS App Store Connect and Google Play Console.
 * [GoatCounter Dashboard](https://github.com/abhishekhsingh/goatcounter-dashboard) ⭐ 14 | 🐛 0 | 🌐 HTML | 📅 2026-07-21 - Modern analytics dashboard for GoatCounter with interactive charts, choropleth world map, and demo mode. Single HTML file, no build step.
-* [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-14 - Free monitoring dashboard for OpenClaw AI agents: token usage, session tracking, 7-day trends, multi-model support. Vue 3 + ECharts.
+* [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-14 - Free monitoring dashboard for OpenClaw AI agents: token usage, session tracking, 7-day trends, multi-model support. Vue 3 + ECharts.
 * [Grafana](http://grafana.org/) - A dashboard editor for visualizing time series data.
 * [querybear.com](https://querybear.com) - Ask your data anything – with persistent memory, schema learning, and more.
 * [Metricio](https://metricio.github.io/) - ⚡ Fast & simple dashboards for all your metrics. Using Node.js and React. ⚡
@@ -76,11 +76,11 @@ See [Contribution Guidelines](#contribution-guidelines)
 
 ## Others
 
-* [ng2 Admin](https://github.com/akveo/ng2-admin) ⭐ 25,706 | 🐛 493 | 🌐 TypeScript | 📅 2024-09-25 - Solid Angular2 admin dashboard, based on [Angular2 Webpack Starter](https://github.com/AngularClass/angular2-webpack-starter) ⭐ 10,212 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-07
-* [Countly](https://github.com/countly/countly-server) ⭐ 5,886 | 🐛 78 | 🌐 JavaScript | 📅 2026-08-14 - An open source, mobile & web analytics dashboard.
-* [Hystrix Dashboard](https://github.com/Netflix-Skunkworks/hystrix-dashboard) ⭐ 232 | 🐛 10 | 🌐 JavaScript | 📅 2018-03-30 - The [Hystrix](https://github.com/Netflix/Hystrix) ⭐ 24,470 | 🐛 58 | 🌐 Java | 📅 2025-12-17 Dashboard enables realtime monitoring of Hystrix metrics.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-14 - AI-powered multi-cluster Kubernetes dashboard with 150+ real-time monitoring cards and CNCF integrations.
-* [Canopsis](https://github.com/capensis/canopsis) ⭐ 102 | 🐛 23 | 🌐 Go | 📅 2026-08-13 - Canopsis is an open-source hypervisor whose goal is to aggregate/consolidate information and events.
+* [ng2 Admin](https://github.com/akveo/ng2-admin) ⭐ 25,705 | 🐛 495 | 🌐 TypeScript | 📅 2024-09-25 - Solid Angular2 admin dashboard, based on [Angular2 Webpack Starter](https://github.com/AngularClass/angular2-webpack-starter) ⭐ 10,212 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-07
+* [Countly](https://github.com/countly/countly-server) ⭐ 5,886 | 🐛 91 | 🌐 JavaScript | 📅 2026-08-14 - An open source, mobile & web analytics dashboard.
+* [Hystrix Dashboard](https://github.com/Netflix-Skunkworks/hystrix-dashboard) ⭐ 232 | 🐛 10 | 🌐 JavaScript | 📅 2018-03-30 - The [Hystrix](https://github.com/Netflix/Hystrix) ⭐ 24,469 | 🐛 58 | 🌐 Java | 📅 2025-12-17 Dashboard enables realtime monitoring of Hystrix metrics.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-15 - AI-powered multi-cluster Kubernetes dashboard with 150+ real-time monitoring cards and CNCF integrations.
+* [Canopsis](https://github.com/capensis/canopsis) ⭐ 102 | 🐛 23 | 🌐 Go | 📅 2026-08-15 - Canopsis is an open-source hypervisor whose goal is to aggregate/consolidate information and events.
 * [Hawtio](http://hawt.io) - A  modular web console for managing your Java stuff.
 * [OpenChainBench](https://openchainbench.com) - Public dashboards for blockchain RPC provider benchmarks. Multi-region Prometheus scraping with a Next.js front-end, all data and methodology exposed.
 
@@ -100,4 +100,4 @@ Thank you for your suggestions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
