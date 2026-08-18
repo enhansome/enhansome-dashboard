@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T03:10:06Z",
+            "last_commit": "2026-08-18T03:56:00Z",
             "owner": "apache",
             "repo": "superset",
-            "stars": 74285
+            "stars": 74289
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-17T04:01:14Z",
+            "last_commit": "2026-08-18T03:57:16Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48791
+            "stars": 48809
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T20:39:56Z",
+            "last_commit": "2026-08-18T02:27:53Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40680
+            "stars": 40685
           }
         },
         {
@@ -58,10 +58,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T18:34:15Z",
+            "last_commit": "2026-08-18T02:47:50Z",
             "owner": "elastic",
             "repo": "kibana",
-            "stars": 21246
+            "stars": 21247
           }
         },
         {
@@ -184,7 +184,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T19:47:09Z",
+            "last_commit": "2026-08-17T06:29:02Z",
             "owner": "marcimastro98",
             "repo": "Xenon",
             "stars": 65
@@ -198,7 +198,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T03:32:17Z",
+            "last_commit": "2026-08-18T03:29:05Z",
             "owner": "inetsoft-technology",
             "repo": "stylebi",
             "stars": 54
@@ -412,7 +412,7 @@
             "last_commit": "2024-09-25T10:12:17Z",
             "owner": "akveo",
             "repo": "ngx-admin",
-            "stars": 25688
+            "stars": 25685
           }
         },
         {
@@ -423,7 +423,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T18:56:15Z",
+            "last_commit": "2026-08-18T01:22:58Z",
             "owner": "Countly",
             "repo": "countly-server",
             "stars": 5886
@@ -451,7 +451,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T03:18:32Z",
+            "last_commit": "2026-08-18T04:01:23Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 128
@@ -465,7 +465,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T03:07:32Z",
+            "last_commit": "2026-08-18T03:07:29Z",
             "owner": "capensis",
             "repo": "canopsis",
             "stars": 102
@@ -476,7 +476,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:05:54.512Z",
+    "last_updated": "2026-08-18T04:01:43.954Z",
     "original_repository": "obazoud/awesome-dashboard",
     "original_repository_sha": "5f9b861b0f31b7aab9ccee111300acab69211228",
     "enhanced_repository": "enhansome/enhansome-dashboard",
