@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Sponsors"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39464018,
             "language": "Python",
-            "last_commit": "2026-08-19T00:31:27Z",
+            "last_commit": "2026-08-19T11:03:15Z",
             "owner": "apache",
             "repo": "superset",
-            "stars": 74301
+            "stars": 74311
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30203935,
             "language": "Clojure",
-            "last_commit": "2026-08-19T04:00:05Z",
+            "last_commit": "2026-08-19T12:20:43Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48823
+            "stars": 48830
           }
         },
         {
@@ -43,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275993885,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T18:39:09Z",
+            "last_commit": "2026-08-19T06:18:36Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40705
+            "stars": 40704
           }
         },
         {
@@ -57,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7833168,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T03:10:29Z",
+            "last_commit": "2026-08-19T12:17:22Z",
             "owner": "elastic",
             "repo": "kibana",
-            "stars": 21250
+            "stars": 21251
           }
         },
         {
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11726302,
             "language": "JavaScript",
             "last_commit": "2023-09-23T21:14:02Z",
             "owner": "Freeboard",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28498113,
             "language": "JavaScript",
             "last_commit": "2023-01-12T09:57:56Z",
             "owner": "plouc",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59196643,
             "language": "JavaScript",
             "last_commit": "2023-03-10T21:09:18Z",
             "owner": "Smashing",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 112598304,
             "language": "TypeScript",
             "last_commit": "2026-06-26T07:14:22Z",
             "owner": "allegro",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7004321,
             "language": "JavaScript",
             "last_commit": "2017-04-24T14:16:55Z",
             "owner": "evolvedlight",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 671010928,
             "language": "Rust",
             "last_commit": "2023-08-15T05:36:13Z",
             "owner": "frolicflow",
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91727050,
             "language": "JavaScript",
             "last_commit": "2024-01-22T17:18:11Z",
             "owner": "ylacaute",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162710163,
             "language": "Python",
             "last_commit": "2026-02-24T20:32:49Z",
             "owner": "dankilman",
@@ -183,8 +190,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1225546034,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T06:28:16Z",
+            "last_commit": "2026-08-19T08:00:15Z",
             "owner": "marcimastro98",
             "repo": "Xenon",
             "stars": 67
@@ -197,8 +205,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 827836816,
             "language": "Java",
-            "last_commit": "2026-08-19T02:54:39Z",
+            "last_commit": "2026-08-19T11:34:02Z",
             "owner": "inetsoft-technology",
             "repo": "stylebi",
             "stars": 54
@@ -211,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1129232830,
             "language": "Python",
             "last_commit": "2026-03-04T23:57:04Z",
             "owner": "shmlkv",
@@ -225,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1310107014,
             "language": "JavaScript",
             "last_commit": "2026-08-13T04:33:48Z",
             "owner": "zmsp",
@@ -239,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1221064711,
             "language": "HTML",
             "last_commit": "2026-07-21T10:19:12Z",
             "owner": "abhishekhsingh",
@@ -253,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1214883054,
             "language": "JavaScript",
             "last_commit": "2026-05-14T14:08:28Z",
             "owner": "flik2002",
@@ -264,7 +277,7 @@
       "title": "General"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -273,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 4164796,
             "language": "JavaScript",
             "last_commit": "2022-05-31T22:43:10Z",
             "owner": "obfuscurity",
@@ -287,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7200944,
             "language": "CSS",
             "last_commit": "2017-06-01T07:02:55Z",
             "owner": "kenhub",
@@ -301,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 2534995,
             "language": "CSS",
             "last_commit": "2021-01-11T19:23:58Z",
             "owner": "ripienaar",
@@ -315,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 4573996,
             "language": "JavaScript",
             "last_commit": "2022-01-19T02:39:05Z",
             "owner": "obfuscurity",
@@ -329,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2657431,
             "language": "PHP",
             "last_commit": "2016-03-11T17:45:34Z",
             "owner": "Graphite-Tattle",
@@ -343,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6873524,
             "language": "JavaScript",
             "last_commit": "2016-04-06T09:32:37Z",
             "owner": "ezbz",
@@ -357,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9554600,
             "language": "Ruby",
             "last_commit": "2014-04-09T19:03:20Z",
             "owner": "obfuscurity",
@@ -371,35 +391,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5695905,
             "language": "PHP",
             "last_commit": "2019-07-25T09:20:49Z",
             "owner": "gree",
             "repo": "Orion",
             "stars": 126
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Graphite observer",
-          "description": "A realtime monitor dashboard for graphite.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Graphiti",
-          "description": "An alternate JavaScript and Ruby front-end and graph storage.",
-          "children": []
         }
       ],
       "title": "Graphite"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Ganglia"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -408,11 +412,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59652928,
             "language": "TypeScript",
             "last_commit": "2024-09-25T10:12:17Z",
             "owner": "akveo",
             "repo": "ngx-admin",
-            "stars": 25684
+            "stars": 25685
           }
         },
         {
@@ -422,11 +427,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4473517,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T19:12:44Z",
+            "last_commit": "2026-08-19T07:25:18Z",
             "owner": "Countly",
             "repo": "countly-server",
-            "stars": 5887
+            "stars": 5888
           }
         },
         {
@@ -436,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116744239,
             "language": "JavaScript",
             "last_commit": "2018-03-30T12:54:53Z",
             "owner": "Netflix-Skunkworks",
@@ -450,8 +457,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T03:38:39Z",
+            "last_commit": "2026-08-19T11:48:09Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -464,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2940635,
             "language": "Go",
             "last_commit": "2026-08-18T03:07:29Z",
             "owner": "capensis",
@@ -476,8 +485,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:02:50.537Z",
+    "last_updated": "2026-08-19T12:23:46.499Z",
     "original_repository": "obazoud/awesome-dashboard",
+    "original_repository_id": 24758659,
     "original_repository_sha": "5f9b861b0f31b7aab9ccee111300acab69211228",
     "enhanced_repository": "enhansome/enhansome-dashboard",
     "enhanced_repository_description": null,
