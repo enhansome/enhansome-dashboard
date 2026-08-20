@@ -12,10 +12,10 @@
             "archived": false,
             "id": 39464018,
             "language": "Python",
-            "last_commit": "2026-08-19T11:03:15Z",
+            "last_commit": "2026-08-20T01:15:16Z",
             "owner": "apache",
             "repo": "superset",
-            "stars": 74311
+            "stars": 74315
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 30203935,
             "language": "Clojure",
-            "last_commit": "2026-08-19T12:20:43Z",
+            "last_commit": "2026-08-20T03:59:20Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48830
+            "stars": 48843
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 275993885,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T06:18:36Z",
+            "last_commit": "2026-08-19T19:33:48Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40704
+            "stars": 40709
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 7833168,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:17:22Z",
+            "last_commit": "2026-08-20T03:08:45Z",
             "owner": "elastic",
             "repo": "kibana",
             "stars": 21251
@@ -207,7 +207,7 @@
             "archived": false,
             "id": 827836816,
             "language": "Java",
-            "last_commit": "2026-08-19T11:34:02Z",
+            "last_commit": "2026-08-20T03:18:35Z",
             "owner": "inetsoft-technology",
             "repo": "stylebi",
             "stars": 54
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-13T04:33:48Z",
             "owner": "zmsp",
             "repo": "AppRankly",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2024-09-25T10:12:17Z",
             "owner": "akveo",
             "repo": "ngx-admin",
-            "stars": 25685
+            "stars": 25686
           }
         },
         {
@@ -429,7 +429,7 @@
             "archived": false,
             "id": 4473517,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T07:25:18Z",
+            "last_commit": "2026-08-20T01:59:17Z",
             "owner": "Countly",
             "repo": "countly-server",
             "stars": 5888
@@ -459,7 +459,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:48:09Z",
+            "last_commit": "2026-08-20T03:17:12Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -485,7 +485,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:23:46.499Z",
+    "last_updated": "2026-08-20T04:02:12.583Z",
     "original_repository": "obazoud/awesome-dashboard",
     "original_repository_id": 24758659,
     "original_repository_sha": "5f9b861b0f31b7aab9ccee111300acab69211228",
