@@ -12,10 +12,10 @@
             "archived": false,
             "id": 39464018,
             "language": "Python",
-            "last_commit": "2026-08-21T03:54:29Z",
+            "last_commit": "2026-08-22T03:28:37Z",
             "owner": "apache",
             "repo": "superset",
-            "stars": 74330
+            "stars": 74368
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 30203935,
             "language": "Clojure",
-            "last_commit": "2026-08-21T04:03:10Z",
+            "last_commit": "2026-08-22T02:54:37Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48859
+            "stars": 48872
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 275993885,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T19:05:24Z",
+            "last_commit": "2026-08-21T18:45:48Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40713
+            "stars": 40718
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 7833168,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T01:19:14Z",
+            "last_commit": "2026-08-22T02:35:55Z",
             "owner": "elastic",
             "repo": "kibana",
-            "stars": 21251
+            "stars": 21248
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2023-01-12T09:57:56Z",
             "owner": "plouc",
             "repo": "mozaik",
-            "stars": 3597
+            "stars": 3599
           }
         },
         {
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 1225546034,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T06:28:27Z",
+            "last_commit": "2026-08-21T05:23:13Z",
             "owner": "marcimastro98",
             "repo": "Xenon",
             "stars": 67
@@ -207,7 +207,7 @@
             "archived": false,
             "id": 827836816,
             "language": "Java",
-            "last_commit": "2026-08-21T03:59:36Z",
+            "last_commit": "2026-08-22T03:04:12Z",
             "owner": "inetsoft-technology",
             "repo": "stylebi",
             "stars": 54
@@ -417,7 +417,7 @@
             "last_commit": "2024-09-25T10:12:17Z",
             "owner": "akveo",
             "repo": "ngx-admin",
-            "stars": 25687
+            "stars": 25688
           }
         },
         {
@@ -429,10 +429,10 @@
             "archived": false,
             "id": 4473517,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T01:22:54Z",
+            "last_commit": "2026-08-21T19:28:12Z",
             "owner": "Countly",
             "repo": "countly-server",
-            "stars": 5888
+            "stars": 5889
           }
         },
         {
@@ -459,7 +459,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T04:00:23Z",
+            "last_commit": "2026-08-22T03:15:42Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -485,7 +485,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:04:42.523Z",
+    "last_updated": "2026-08-22T03:59:21.660Z",
     "original_repository": "obazoud/awesome-dashboard",
     "original_repository_id": 24758659,
     "original_repository_sha": "5f9b861b0f31b7aab9ccee111300acab69211228",
