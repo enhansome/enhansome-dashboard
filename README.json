@@ -12,10 +12,10 @@
             "archived": false,
             "id": 39464018,
             "language": "Python",
-            "last_commit": "2026-08-23T22:47:04Z",
+            "last_commit": "2026-08-24T14:18:34Z",
             "owner": "apache",
             "repo": "superset",
-            "stars": 74439
+            "stars": 74445
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 30203935,
             "language": "Clojure",
-            "last_commit": "2026-08-24T03:58:36Z",
+            "last_commit": "2026-08-24T14:18:12Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48897
+            "stars": 48904
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 275993885,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T18:45:48Z",
+            "last_commit": "2026-08-24T10:59:41Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40730
+            "stars": 40733
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 7833168,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T04:06:06Z",
+            "last_commit": "2026-08-24T14:17:42Z",
             "owner": "elastic",
             "repo": "kibana",
-            "stars": 21251
+            "stars": 21253
           }
         },
         {
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 1225546034,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T22:52:55Z",
+            "last_commit": "2026-08-24T09:09:42Z",
             "owner": "marcimastro98",
             "repo": "Xenon",
             "stars": 68
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 827836816,
             "language": "Java",
-            "last_commit": "2026-08-24T04:05:46Z",
+            "last_commit": "2026-08-24T14:10:07Z",
             "owner": "inetsoft-technology",
             "repo": "stylebi",
             "stars": 54
@@ -407,6 +407,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Influga",
+          "description": "A InfluxDB Dashboard and Graph Editor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 18799738,
+            "language": "JavaScript",
+            "last_commit": "2017-04-18T09:09:47Z",
+            "owner": "hakobera",
+            "repo": "influga",
+            "stars": 218
+          }
+        }
+      ],
+      "title": "InfluxDB"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Uchiwa",
+          "description": "A simple dashboard for the Sensu monitoring framework.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 17073481,
+            "language": "Go",
+            "last_commit": "2019-11-13T21:32:34Z",
+            "owner": "sensu",
+            "repo": "uchiwa",
+            "stars": 908
+          }
+        }
+      ],
+      "title": "Sensu"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "ng2 Admin",
           "description": "Solid Angular2 admin dashboard, based on Angular2 Webpack Starter",
           "children": [],
@@ -417,7 +459,7 @@
             "last_commit": "2024-09-25T10:12:17Z",
             "owner": "akveo",
             "repo": "ngx-admin",
-            "stars": 25688
+            "stars": 25687
           }
         },
         {
@@ -459,7 +501,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T03:20:51Z",
+            "last_commit": "2026-08-24T10:52:39Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -485,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:09:27.243Z",
+    "last_updated": "2026-08-24T14:19:16.308Z",
     "original_repository": "obazoud/awesome-dashboard",
     "original_repository_id": 24758659,
     "original_repository_sha": "5f9b861b0f31b7aab9ccee111300acab69211228",
