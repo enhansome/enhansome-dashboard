@@ -12,10 +12,10 @@
             "archived": false,
             "id": 39464018,
             "language": "Python",
-            "last_commit": "2026-08-22T22:02:22Z",
+            "last_commit": "2026-08-23T22:47:04Z",
             "owner": "apache",
             "repo": "superset",
-            "stars": 74408
+            "stars": 74439
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 30203935,
             "language": "Clojure",
-            "last_commit": "2026-08-23T03:33:58Z",
+            "last_commit": "2026-08-24T03:58:36Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48883
+            "stars": 48897
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T18:45:48Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40724
+            "stars": 40730
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 7833168,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T00:51:12Z",
+            "last_commit": "2026-08-24T04:06:06Z",
             "owner": "elastic",
             "repo": "kibana",
             "stars": 21251
@@ -192,25 +192,10 @@
             "archived": false,
             "id": 1225546034,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T09:56:48Z",
+            "last_commit": "2026-08-23T22:52:55Z",
             "owner": "marcimastro98",
             "repo": "Xenon",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StyleBI",
-          "description": "App for dashboards and analytics with data pipeline for transformation and mashup.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 827836816,
-            "language": "Java",
-            "last_commit": "2026-08-23T03:50:09Z",
-            "owner": "inetsoft-technology",
-            "repo": "stylebi",
-            "stars": 54
+            "stars": 68
           }
         },
         {
@@ -225,6 +210,21 @@
             "last_commit": "2026-03-04T23:57:04Z",
             "owner": "shmlkv",
             "repo": "dna-claude-analysis",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StyleBI",
+          "description": "App for dashboards and analytics with data pipeline for transformation and mashup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 827836816,
+            "language": "Java",
+            "last_commit": "2026-08-24T04:05:46Z",
+            "owner": "inetsoft-technology",
+            "repo": "stylebi",
             "stars": 54
           }
         },
@@ -429,7 +429,7 @@
             "archived": false,
             "id": 4473517,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T19:28:12Z",
+            "last_commit": "2026-08-24T01:23:05Z",
             "owner": "Countly",
             "repo": "countly-server",
             "stars": 5891
@@ -459,7 +459,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T03:20:16Z",
+            "last_commit": "2026-08-24T03:20:51Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -485,7 +485,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:04:45.003Z",
+    "last_updated": "2026-08-24T04:09:27.243Z",
     "original_repository": "obazoud/awesome-dashboard",
     "original_repository_id": 24758659,
     "original_repository_sha": "5f9b861b0f31b7aab9ccee111300acab69211228",
