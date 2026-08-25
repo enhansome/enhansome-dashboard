@@ -12,7 +12,7 @@
             "archived": false,
             "id": 39464018,
             "language": "Python",
-            "last_commit": "2026-08-25T03:11:55Z",
+            "last_commit": "2026-08-25T05:54:37Z",
             "owner": "apache",
             "repo": "superset",
             "stars": 74451
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 30203935,
             "language": "Clojure",
-            "last_commit": "2026-08-25T03:55:58Z",
+            "last_commit": "2026-08-25T05:56:22Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48912
+            "stars": 48911
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T23:35:22Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40740
+            "stars": 40742
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 7833168,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T02:29:28Z",
+            "last_commit": "2026-08-25T04:47:27Z",
             "owner": "elastic",
             "repo": "kibana",
             "stars": 21255
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 1225546034,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T20:28:51Z",
+            "last_commit": "2026-08-25T05:52:50Z",
             "owner": "marcimastro98",
             "repo": "Xenon",
             "stars": 68
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 827836816,
             "language": "Java",
-            "last_commit": "2026-08-25T03:23:48Z",
+            "last_commit": "2026-08-25T04:37:51Z",
             "owner": "inetsoft-technology",
             "repo": "stylebi",
             "stars": 54
@@ -501,7 +501,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T03:18:10Z",
+            "last_commit": "2026-08-25T06:04:57Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:03:34.385Z",
+    "last_updated": "2026-08-25T06:10:18.743Z",
     "original_repository": "obazoud/awesome-dashboard",
     "original_repository_id": 24758659,
     "original_repository_sha": "5f9b861b0f31b7aab9ccee111300acab69211228",
