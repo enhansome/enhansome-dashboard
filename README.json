@@ -10,12 +10,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+            "homepage": "https://superset.apache.org/",
             "id": 39464018,
             "language": "Python",
-            "last_commit": "2026-08-28T15:21:27Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:07:17Z",
+            "open_issues": 612,
             "owner": "apache",
             "repo": "superset",
-            "stars": 74512
+            "stars": 74520,
+            "topics": [
+              "analytics",
+              "apache",
+              "apache-superset",
+              "asf",
+              "bi",
+              "business-analytics",
+              "business-intelligence",
+              "data-analysis",
+              "data-analytics",
+              "data-engineering",
+              "data-science",
+              "data-visualization",
+              "data-viz",
+              "flask",
+              "python",
+              "react",
+              "sql-editor",
+              "superset"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -26,12 +50,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
+            "homepage": "https://metabase.com",
             "id": 30203935,
             "language": "Clojure",
-            "last_commit": "2026-08-28T15:25:58Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:07:28Z",
+            "open_issues": 4456,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48978
+            "stars": 48981,
+            "topics": [
+              "analytics",
+              "bi",
+              "business-intelligence",
+              "businessintelligence",
+              "clojure",
+              "dashboard",
+              "data",
+              "data-analysis",
+              "data-visualization",
+              "database",
+              "metabase",
+              "mysql",
+              "postgres",
+              "postgresql",
+              "reporting",
+              "slack",
+              "sql-editor",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -42,12 +90,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+            "homepage": "https://www.appsmith.com",
             "id": 275993885,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T14:55:05Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:38:04Z",
+            "open_issues": 4470,
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40773
+            "stars": 40778,
+            "topics": [
+              "admin-dashboard",
+              "admin-panels",
+              "app-builder",
+              "automation",
+              "crud",
+              "custom-internal",
+              "developer-tools",
+              "gui",
+              "gui-application",
+              "hacktoberfest",
+              "internal-tools",
+              "java",
+              "javascript",
+              "low-code",
+              "low-code-framework",
+              "react",
+              "self-hosted",
+              "typescript",
+              "webdevelopment",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -58,12 +132,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your window into all of your data",
+            "homepage": "https://www.elastic.co/products/kibana",
             "id": 7833168,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T15:23:35Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:08:29Z",
+            "open_issues": 14308,
             "owner": "elastic",
             "repo": "kibana",
-            "stars": 21267
+            "stars": 21270,
+            "topics": [
+              "dashboards",
+              "elasticsearch",
+              "hacktoberfest",
+              "kibana",
+              "metrics",
+              "observability",
+              "visualizations"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -74,12 +161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.",
+            "homepage": "http://freeboard.io",
             "id": 11726302,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-23T21:14:02Z",
+            "open_issues": 166,
             "owner": "Freeboard",
             "repo": "freeboard",
-            "stars": 6505
+            "stars": 6505,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -90,12 +182,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards",
+            "homepage": "http://mozaik.rocks",
             "id": 28498113,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-12T09:57:56Z",
+            "open_issues": 135,
             "owner": "plouc",
             "repo": "mozaik",
-            "stars": 3599
+            "stars": 3599,
+            "topics": [
+              "d3",
+              "dashboard",
+              "dataviz",
+              "metrics",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -106,12 +209,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The exceptionally handsome dashboard framework in Ruby and Coffeescript.",
+            "homepage": "https://smashing.github.io/",
             "id": 59196643,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-10T21:09:18Z",
+            "open_issues": 22,
             "owner": "Smashing",
             "repo": "smashing",
-            "stars": 3300
+            "stars": 3301,
+            "topics": [
+              "dashboard",
+              "dashboard-application",
+              "dashboard-widget",
+              "dashboard-widgets",
+              "dashboards",
+              "hacktoberfest",
+              "monitoring"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -122,12 +238,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Business intelligence, data exploration and visualization web application for Druid, formerly known as Swiv and Pivot",
+            "homepage": "https://allegro.github.io/turnilo/",
             "id": 112598304,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-26T07:14:22Z",
+            "open_issues": 139,
             "owner": "allegro",
             "repo": "turnilo",
-            "stars": 769
+            "stars": 769,
+            "topics": [
+              "business-intelligence",
+              "data-visualization",
+              "druid",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -138,12 +264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Port of Dashing to python",
+            "homepage": null,
             "id": 7004321,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-04-24T14:16:55Z",
+            "open_issues": 5,
             "owner": "evolvedlight",
             "repo": "pydashie",
-            "stars": 413
+            "stars": 413,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -154,12 +285,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Backend service to build customer facing dashboards 10x faster. Written in Rust.",
+            "homepage": "https://www.frolicorg.com",
             "id": 671010928,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-15T05:36:13Z",
+            "open_issues": 0,
             "owner": "frolicflow",
             "repo": "frolic",
-            "stars": 203
+            "stars": 203,
+            "topics": [
+              "analytics",
+              "dashboard",
+              "dashboard-builder",
+              "developer-tools",
+              "headless",
+              "mysql",
+              "postgresql",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -170,12 +315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Another free dashboard tool (React + Spring Boot) for agile development teams",
+            "homepage": null,
             "id": 91727050,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-22T17:18:11Z",
+            "open_issues": 3,
             "owner": "ylacaute",
             "repo": "ez-Dashing",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -186,12 +336,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic web based reports/dashboards in Python",
+            "homepage": "http://awe-pages.readthedocs.io",
             "id": 162710163,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-24T20:32:49Z",
+            "open_issues": 19,
             "owner": "dankilman",
             "repo": "awe",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "dashboard",
+              "python",
+              "react",
+              "report"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -202,12 +362,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 100% local all-in-one dashboard for any screen, tablet or phone. Windows, with macOS and Linux in beta. System monitor, media and mic, a voice AI that can build dashboard pages for you, a Stream Deck style grid, RGB lighting, and Twitch/OBS control. Free and source-available, no account, no telemetry.",
+            "homepage": "https://xenon-app.com/",
             "id": 1225546034,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T09:26:56Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:51:00Z",
+            "open_issues": 4,
             "owner": "marcimastro98",
             "repo": "Xenon",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "claude",
+              "claude-code",
+              "corsair",
+              "dashboard",
+              "discord",
+              "linux",
+              "local-ai",
+              "macos",
+              "obs",
+              "ollama",
+              "openrgb",
+              "self-hosted",
+              "spotify",
+              "stream-deck",
+              "system-monitor",
+              "tauri",
+              "twitch",
+              "windows",
+              "xeneon-edge",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -218,12 +404,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run scripts, explore your genome, and get personalized explanations — all in natural dialogue.",
+            "homepage": "https://claude-dna-example.vercel.app",
             "id": 1129232830,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-04T23:57:04Z",
+            "open_issues": 0,
             "owner": "shmlkv",
             "repo": "dna-claude-analysis",
-            "stars": 56
+            "stars": 57,
+            "topics": [
+              "analysis",
+              "claude",
+              "claudecode",
+              "dna",
+              "genome"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -234,12 +431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "StyleBI is a cloud-native, small-footprint business intelligence web application powered by a combination of visualization and data transformation pipeline",
+            "homepage": "https://www.inetsoft.com",
             "id": 827836816,
             "language": "Java",
-            "last_commit": "2026-08-28T14:58:09Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T02:46:10Z",
+            "open_issues": 28,
             "owner": "inetsoft-technology",
             "repo": "stylebi",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -250,12 +452,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted, open-source mobile app analytics & ASO dashboard for Google Play Store and Apple App Store.",
+            "homepage": "https://zmsp.github.io/AppRankly/#demo",
             "id": 1310107014,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-13T04:33:48Z",
+            "open_issues": 0,
             "owner": "zmsp",
             "repo": "AppRankly",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "android",
+              "app-store-connect",
+              "apple-app-store",
+              "aso",
+              "dashboards",
+              "docker",
+              "google-play",
+              "google-play-console",
+              "ios",
+              "mobile-analytics",
+              "nodejs",
+              "play-store",
+              "privacy",
+              "react",
+              "retention-analytics",
+              "self-hosted",
+              "store-analytics",
+              "unraid"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -266,12 +492,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐐 A modern, beautiful dashboard for GoatCounter analytics - dark mode, interactive charts, demo mode, world map, responsive design. No server required.",
+            "homepage": "https://abhishekhsingh.github.io/goatcounter-dashboard/",
             "id": 1221064711,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-21T10:19:12Z",
+            "open_issues": 0,
             "owner": "abhishekhsingh",
             "repo": "goatcounter-dashboard",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "analytics",
+              "choropleth",
+              "choropleth-map",
+              "choropleth-maps",
+              "dark-mode",
+              "dark-mode-ui",
+              "dashboard",
+              "dashboard-templates",
+              "dashboards",
+              "github-pages",
+              "goatcounter",
+              "open-source",
+              "open-source-project",
+              "privacy",
+              "privacy-first",
+              "recharts",
+              "self-hosted",
+              "web-analytics"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -282,12 +532,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support",
+            "homepage": "https://github.com/flik2002/openclaw-monitor",
             "id": 1214883054,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-14T14:08:28Z",
+            "open_issues": 0,
             "owner": "flik2002",
             "repo": "openclaw-monitor",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "ai-agent",
+              "ai-monitoring",
+              "dashboard",
+              "echarts",
+              "monitoring",
+              "open-source",
+              "openclaw",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         }
@@ -304,12 +568,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Live dashboard for Graphite",
+            "homepage": null,
             "id": 4164796,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-31T22:43:10Z",
+            "open_issues": 12,
             "owner": "obfuscurity",
             "repo": "tasseo",
-            "stars": 1513
+            "stars": 1513,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -320,12 +589,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Giraffe - a graphite dashboard with a long neck",
+            "homepage": "http://giraffe.kenhub.com/",
             "id": 7200944,
             "language": "CSS",
+            "license": null,
             "last_commit": "2017-06-01T07:02:55Z",
+            "open_issues": 3,
             "owner": "kenhub",
             "repo": "giraffe",
-            "stars": 770
+            "stars": 770,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -336,12 +610,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A dashboard for Graphite",
+            "homepage": "http://www.devco.net/",
             "id": 2534995,
             "language": "CSS",
+            "license": "Apache-2.0",
             "last_commit": "2021-01-11T19:23:58Z",
+            "open_issues": 28,
             "owner": "ripienaar",
             "repo": "gdash",
-            "stars": 750
+            "stars": 750,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -352,12 +631,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Introspective dashboard for Graphite",
+            "homepage": null,
             "id": 4573996,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-01-19T02:39:05Z",
+            "open_issues": 38,
             "owner": "obfuscurity",
             "repo": "descartes",
-            "stars": 500
+            "stars": 500,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -368,12 +652,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tattle is a lightweight self-service dashboards web-application for Graphite and Ganglia monitoring tools",
+            "homepage": null,
             "id": 2657431,
             "language": "PHP",
+            "license": null,
             "last_commit": "2016-03-11T17:45:34Z",
+            "open_issues": 5,
             "owner": "Graphite-Tattle",
             "repo": "Tattle",
-            "stars": 301
+            "stars": 301,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -384,12 +673,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple graphite based dashboard system",
+            "homepage": null,
             "id": 6873524,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-04-06T09:32:37Z",
+            "open_issues": 4,
             "owner": "ezbz",
             "repo": "graphitus",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -400,12 +694,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Hotspot dashboard for Graphite",
+            "homepage": null,
             "id": 9554600,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2014-04-09T19:03:20Z",
+            "open_issues": 5,
             "owner": "obfuscurity",
             "repo": "dusk",
-            "stars": 189
+            "stars": 189,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -416,12 +715,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 5695905,
             "language": "PHP",
+            "license": null,
             "last_commit": "2019-07-25T09:20:49Z",
+            "open_issues": 5,
             "owner": "gree",
             "repo": "Orion",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         }
@@ -438,12 +742,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Influga - A InfluxDB Dashboard and Graph Editor",
+            "homepage": null,
             "id": 18799738,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-04-18T09:09:47Z",
+            "open_issues": 1,
             "owner": "hakobera",
             "repo": "influga",
-            "stars": 218
+            "stars": 218,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         }
@@ -460,12 +769,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Uchiwa is a simple yet effective open-source dashboard for the Sensu monitoring framework.",
+            "homepage": "https://uchiwa.io",
             "id": 17073481,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-11-13T21:32:34Z",
+            "open_issues": 90,
             "owner": "sensu",
             "repo": "uchiwa",
-            "stars": 908
+            "stars": 908,
+            "topics": [
+              "go",
+              "monitoring",
+              "sensu",
+              "uchiwa"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         }
@@ -482,12 +801,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Customizable admin dashboard template based on Angular 10+",
+            "homepage": "https://akveo.github.io/ngx-admin/",
             "id": 59652928,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-09-25T10:12:17Z",
+            "open_issues": 495,
             "owner": "akveo",
             "repo": "ngx-admin",
-            "stars": 25691
+            "stars": 25691,
+            "topics": [
+              "admin",
+              "admin-dashboard",
+              "admin-template",
+              "admin-ui",
+              "angular-dashboard-template",
+              "angular10",
+              "angular2",
+              "angular9",
+              "bootstrap4",
+              "dashboard",
+              "framework",
+              "material-theme",
+              "ng2",
+              "ng2-admin",
+              "ngx-admin",
+              "responsive",
+              "sass",
+              "theme",
+              "typescript",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -498,12 +843,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Countly is a privacy-first, AI-powered analytics and engagement platform for understanding and optimizing customer journeys across digital applications, from desktop and mobile to IoT and connected environments.",
+            "homepage": "https://countly.com",
             "id": 4473517,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:53:58Z",
+            "open_issues": 16,
             "owner": "Countly",
             "repo": "countly-server",
-            "stars": 5894
+            "stars": 5894,
+            "topics": [
+              "ai",
+              "analytics",
+              "coppa",
+              "crash-analytics",
+              "customer-engagement",
+              "dashboard",
+              "data-ownership",
+              "data-privacy",
+              "digital-analytics",
+              "feature-flags",
+              "gdpr",
+              "hipaa",
+              "insights",
+              "mobile-analytics",
+              "push-notifications",
+              "remote-configuration",
+              "tracking",
+              "user-feedback",
+              "user-journeys",
+              "web-analytics"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -514,12 +885,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 116744239,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-30T12:54:53Z",
+            "open_issues": 10,
             "owner": "Netflix-Skunkworks",
             "repo": "hystrix-dashboard",
-            "stars": 232
+            "stars": 232,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -530,12 +906,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+            "homepage": "https://console.kubestellar.io",
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T14:49:41Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:30:02Z",
+            "open_issues": 13,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         },
@@ -546,12 +927,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Canopsis is an open-source hypervisor whose goal is to aggregate informations and events coming from multiple sources to create a global solution for monitoring and resources administration -- MIRROR of https://git.canopsis.net/canopsis/canopsis-community --",
+            "homepage": "https://www.canopsis.org",
             "id": 2940635,
             "language": "Go",
-            "last_commit": "2026-08-28T03:08:31Z",
+            "license": null,
+            "last_commit": "2026-08-29T03:07:49Z",
+            "open_issues": 23,
             "owner": "capensis",
             "repo": "canopsis",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "canopsis",
+              "hypervision",
+              "monitoring",
+              "supervision"
+            ]
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
         }
@@ -560,15 +951,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:28:03.971Z",
+    "last_updated": "2026-08-29T04:34:37.813Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of amazingly awesome dashboards/visualization resources.",
+      "homepage": null,
       "id": 24758659,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-01T09:30:49Z",
+      "open_issues": 2,
       "owner": "obazoud",
       "repo": "awesome-dashboard",
-      "stars": 1174
+      "stars": 1174,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dashboard"
+      ]
     },
     "original_repository_sha": "5f9b861b0f31b7aab9ccee111300acab69211228",
     "enhanced_repository": "enhansome/enhansome-dashboard",
