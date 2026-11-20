@@ -15,11 +15,11 @@
             "id": 39464018,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T11:46:55Z",
-            "open_issues": 683,
+            "last_commit": "2026-11-20T11:49:07Z",
+            "open_issues": 641,
             "owner": "apache",
             "repo": "superset",
-            "stars": 75571,
+            "stars": 75586,
             "topics": [
               "analytics",
               "apache",
@@ -55,11 +55,11 @@
             "id": 30203935,
             "language": "Clojure",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T11:44:27Z",
-            "open_issues": 4767,
+            "last_commit": "2026-11-20T11:50:26Z",
+            "open_issues": 4769,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 50412,
+            "stars": 50443,
             "topics": [
               "analytics",
               "bi",
@@ -95,11 +95,11 @@
             "id": 275993885,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T08:37:31Z",
-            "open_issues": 4519,
+            "last_commit": "2026-11-20T07:13:19Z",
+            "open_issues": 4516,
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 41279,
+            "stars": 41281,
             "topics": [
               "admin-dashboard",
               "admin-panels",
@@ -137,11 +137,11 @@
             "id": 7833168,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T11:48:33Z",
-            "open_issues": 14846,
+            "last_commit": "2026-11-20T11:51:08Z",
+            "open_issues": 14797,
             "owner": "elastic",
             "repo": "kibana",
-            "stars": 21381,
+            "stars": 21390,
             "topics": [
               "dashboards",
               "elasticsearch",
@@ -170,7 +170,7 @@
             "open_issues": 166,
             "owner": "Freeboard",
             "repo": "freeboard",
-            "stars": 6500,
+            "stars": 6499,
             "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
@@ -191,7 +191,7 @@
             "open_issues": 135,
             "owner": "plouc",
             "repo": "mozaik",
-            "stars": 3595,
+            "stars": 3594,
             "topics": [
               "d3",
               "dashboard",
@@ -218,7 +218,7 @@
             "open_issues": 22,
             "owner": "Smashing",
             "repo": "smashing",
-            "stars": 3299,
+            "stars": 3298,
             "topics": [
               "dashboard",
               "dashboard-application",
@@ -247,7 +247,7 @@
             "open_issues": 139,
             "owner": "allegro",
             "repo": "turnilo",
-            "stars": 769,
+            "stars": 768,
             "topics": [
               "business-intelligence",
               "data-visualization",
@@ -273,7 +273,7 @@
             "open_issues": 5,
             "owner": "evolvedlight",
             "repo": "pydashie",
-            "stars": 414,
+            "stars": 413,
             "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
@@ -290,7 +290,7 @@
             "id": 1249045671,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T07:24:34Z",
+            "last_commit": "2026-11-20T07:11:52Z",
             "open_issues": 48,
             "owner": "SikamikanikoBG",
             "repo": "homelab-monitor",
@@ -383,8 +383,8 @@
             "id": 1225546034,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T09:03:19Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-20T10:29:51Z",
+            "open_issues": 7,
             "owner": "marcimastro98",
             "repo": "Xenon",
             "stars": 124,
@@ -478,8 +478,8 @@
             "id": 827836816,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-19T11:48:07Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-20T11:33:16Z",
+            "open_issues": 35,
             "owner": "inetsoft-technology",
             "repo": "stylebi",
             "stars": 56,
@@ -503,7 +503,7 @@
             "open_issues": 0,
             "owner": "zmsp",
             "repo": "AppRankly",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "android",
               "app-store-connect",
@@ -653,7 +653,7 @@
             "open_issues": 12,
             "owner": "obfuscurity",
             "repo": "tasseo",
-            "stars": 1514,
+            "stars": 1512,
             "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
@@ -674,7 +674,7 @@
             "open_issues": 3,
             "owner": "kenhub",
             "repo": "giraffe",
-            "stars": 768,
+            "stars": 766,
             "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
@@ -695,7 +695,7 @@
             "open_issues": 28,
             "owner": "ripienaar",
             "repo": "gdash",
-            "stars": 750,
+            "stars": 749,
             "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
@@ -716,7 +716,7 @@
             "open_issues": 38,
             "owner": "obfuscurity",
             "repo": "descartes",
-            "stars": 500,
+            "stars": 499,
             "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
@@ -737,7 +737,7 @@
             "open_issues": 4,
             "owner": "Graphite-Tattle",
             "repo": "Tattle",
-            "stars": 302,
+            "stars": 300,
             "topics": []
           },
           "first_seen": "2026-08-28T15:28:03.971Z"
@@ -854,7 +854,7 @@
             "open_issues": 90,
             "owner": "sensu",
             "repo": "uchiwa",
-            "stars": 903,
+            "stars": 902,
             "topics": [
               "go",
               "monitoring",
@@ -886,7 +886,7 @@
             "open_issues": 496,
             "owner": "akveo",
             "repo": "ngx-admin",
-            "stars": 25665,
+            "stars": 25666,
             "topics": [
               "admin",
               "admin-dashboard",
@@ -924,11 +924,11 @@
             "id": 4473517,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T09:44:28Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-20T10:36:18Z",
+            "open_issues": 5,
             "owner": "Countly",
             "repo": "countly-server",
-            "stars": 5932,
+            "stars": 5931,
             "topics": [
               "ai",
               "analytics",
@@ -987,8 +987,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T05:51:42Z",
-            "open_issues": 89,
+            "last_commit": "2026-11-20T05:50:51Z",
+            "open_issues": 94,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 155,
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T11:49:56.504Z",
+    "last_updated": "2026-11-20T11:51:16.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome dashboards/visualization resources.",
@@ -1039,7 +1039,7 @@
       "open_issues": 11,
       "owner": "obazoud",
       "repo": "awesome-dashboard",
-      "stars": 1197,
+      "stars": 1196,
       "topics": [
         "awesome",
         "awesome-list",
